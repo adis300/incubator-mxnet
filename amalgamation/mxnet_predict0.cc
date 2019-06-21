@@ -65,6 +65,7 @@
 #include "src/executor/inplace_addto_detect_pass.cc"
 #include "src/executor/infer_graph_attr_pass.cc"
 
+#include "src/nnvm/plan_memory.cc"
 #include "src/nnvm/legacy_json_util.cc"
 #include "src/nnvm/legacy_op_util.cc"
 #include "src/nnvm/graph_editor.cc"
